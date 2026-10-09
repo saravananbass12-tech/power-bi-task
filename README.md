@@ -34,8 +34,6 @@ I am developing my technical skills through practical projects in Power BI, Pyth
 
 <div align="center">
 
-### ⭐ Learning • Building • Analyzing • Improving
-
 **Power BI Portfolio | 2026**
 
 *Turning Data into Insights.*
